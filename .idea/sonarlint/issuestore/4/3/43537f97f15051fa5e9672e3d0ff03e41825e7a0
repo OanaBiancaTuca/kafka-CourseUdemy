@@ -1,0 +1,16 @@
+
+~
+java:S2629R"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(œ¦¯˜øÿÿÿÿ8•£«“ã1
+y
+java:S2629S"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(¤œ²‚8–£«“ã1
+m	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Â¯¢8³£«“ã1
+\
+java:S6213*":Rename this variable to not match a restricted identifier.(Úæýûüÿÿÿÿ8¼£«“ã1
+c
+java:S3457R"AFormat specifiers should be used instead of string concatenation.(œ¦¯˜øÿÿÿÿ8¿£«“ã1
+]	java:S125B"<This block of commented-out lines of code should be removed.(šÈŠ‡ÿÿÿÿÿ8À£«“ã1
+]	java:S125E"<This block of commented-out lines of code should be removed.(Û×‡çüÿÿÿÿ8À£«“ã1
+^
+java:S3457S"AFormat specifiers should be used instead of string concatenation.(¤œ²‚8Á£«“ã1
+c
+java:S3457T"AFormat specifiers should be used instead of string concatenation.(çÎìÃþÿÿÿÿ8Â£«“ã1

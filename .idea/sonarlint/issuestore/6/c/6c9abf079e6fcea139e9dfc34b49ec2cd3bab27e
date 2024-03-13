@@ -1,0 +1,15 @@
+
+m	java:S116"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìîªú8öƒ¡•ã1
+^
+java:S3457/"AFormat specifiers should be used instead of string concatenation.(ÜÙÙ“8„¡•ã1
+W	java:S125."<This block of commented-out lines of code should be removed.(Ñøİ58„¡•ã1
+f
+java:S2147F"DCombine this catch with the one at line 67, which has the same body.(±Ÿ—±ÿÿÿÿÿ8‚„¡•ã1
+^
+java:S3457>"AFormat specifiers should be used instead of string concatenation.(ê¶”Ô8ƒ„¡•ã1
+u
+java:S2139@"XEither log this exception and handle it, or rethrow it with some contextual information.(¸õ™È8‡„¡•ã1
+z
+java:S2139C"XEither log this exception and handle it, or rethrow it with some contextual information.(¥éÖ şÿÿÿÿ8Š„¡•ã1
+z
+java:S2139F"XEither log this exception and handle it, or rethrow it with some contextual information.(±Ÿ—±ÿÿÿÿÿ8Œ„¡•ã1
